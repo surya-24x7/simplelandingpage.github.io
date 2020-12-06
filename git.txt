@@ -1,0 +1,22 @@
+stepssss !!!
+
+
+touch .gitignore
+
+git config --global user.name surya
+
+git config --global user.email "suryatheitguyt@gmail.com"
+
+git init
+
+git add .
+
+git commit -m "Initial commit"
+
+ssh-keygen -t rsa -b 4096 -C "email@example.com"
+
+<add this key to github acc>
+
+git remote add origin < ssh url.git>
+
+git push origin master
